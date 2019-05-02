@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
         //super code goes here...
         //bnbmbn
+        for(int i=0;i<10;i++){
+            //do something
+        }
     }
 }

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GitProjectSteps</string>
+    <string name="tv_is_connected">Is Connected ?</string>
+    <string name="edittext_name">Name...</string>
+    <string name="edittext_country">Country...</string>
+    <string name="edittext_twitter">Twitter...</string>
+    <string name="btn_send">Send</string>
 </resources>

@@ -5,4 +5,7 @@
     <string name="edittext_country">Country...</string>
     <string name="edittext_twitter">Twitter...</string>
     <string name="btn_send">Send</string>
+    <string name="hello_world">Hello World</string>
+    <string name="network_failed">Network failed</string>
+    <string name="jsonURL">https://api.github.com/users/mralexgray/repos</string>
 </resources>
